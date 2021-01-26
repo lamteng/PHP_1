@@ -1,0 +1,34 @@
+/*responsive web design font-size
+including body, h1, p, table, td and tr setting
+*/
+
+body {
+    background-color: white;
+  }
+  h1 {
+    font-size:5vw;
+    color: black;
+    text-align: center;
+  }
+  p {
+    font-size:2vw;  
+    color: red;
+  }
+
+
+  table {
+    font-size:3vw;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  td, tr {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    table-layout: fixed;
+  }
+
+
